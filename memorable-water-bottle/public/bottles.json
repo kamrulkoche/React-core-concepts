@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "brand": "Brand A",
+      "type": "Water Bottle",
+      "color": "Blue",
+      "material": "Plastic",
+      "volume_ml": 500
+    },
+    {
+      "id": 2,
+      "brand": "Brand B",
+      "type": "Wine Bottle",
+      "color": "Green",
+      "material": "Glass",
+      "volume_ml": 750
+    },
+    {
+      "id": 3,
+      "brand": "Brand C",
+      "type": "Soda Bottle",
+      "color": "Clear",
+      "material": "Plastic",
+      "volume_ml": 355
+    }
+  ]
